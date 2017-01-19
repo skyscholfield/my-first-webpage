@@ -1,11 +1,12 @@
 h1 {
-  color: #0000ff;
+  color: #ff0000;
   text-align: center;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
+  font-weight: 800;
 }
 
 p {
